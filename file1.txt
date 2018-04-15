@@ -1,3 +1,4 @@
 Hey, a file!
 
 bugfix1
+bugfix2
